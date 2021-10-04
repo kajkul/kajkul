@@ -1,5 +1,5 @@
 [![Get in touch via Discord](https://badges.krynn.dev/discord/?id=406753937396596743)](https://github.com/kajkul) 
-## Hi there 👋
+# Hi there 👋
 
 ### I'm **kajkul**! 👊
 
