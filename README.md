@@ -1,0 +1,16 @@
+## Hi there 👋
+
+### I'm **kajkul**! 👊
+
+I'm 15 years old programmer. I like open source projects and contributing to them, but now I mainly focus on my presonal projects and private ones. I mainly code in Java but sometimes I also use others.
+
+**⌨️ Main Languages:**
+  - Java
+  - Go
+  - JavaScript
+  - *occasionally* Python and C#
+
+**📜 Facts:**
+- 🔭 I’m currently working on a few personal projects.
+- 🌱 I’m currently learning Web Development and improving skills in Java.
+- 📫 How to reach me: Kajkulek#6305
