@@ -10,8 +10,3 @@ I'm 15 years old programmer. I like open source projects and contributing to the
   - Go
   - JavaScript
   - *occasionally* Python and C#
-
-**📜 Facts:**
-- 🔭 I’m currently working on a few personal projects.
-- 🌱 I’m currently learning Web Development and improving skills in Java.
-- 📫 How to reach me: Kajkulek#6305
